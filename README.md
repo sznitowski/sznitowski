@@ -35,7 +35,7 @@
 
 <a href="https://www.linkedin.com/in/valent%C3%ADn-sznitowski/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Valentin%20Sznitowski-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/valentin_sznitowski/?hl=es-la"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Valentin-Sznitowski-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/valentin_sznitowski/?hl=es-la"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Sznitowski-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:vsznitowski@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vsznitowski@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
