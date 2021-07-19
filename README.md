@@ -13,9 +13,9 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Node Js | Mongodb 
+- 💻 &nbsp; Node Js | Express | Mongodb 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 
 - 🔧 &nbsp; Git | Scrum
 
