@@ -15,7 +15,7 @@
 
 - 💻 &nbsp; Node Js | Express | Mongodb 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Bootstrap
 
 - 🔧 &nbsp; Git | Scrum
 
