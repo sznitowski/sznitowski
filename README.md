@@ -13,13 +13,17 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Node Js | Express | Mongodb 
+- 💻 &nbsp; Node Js | Express | Mongodb | postgreSql
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | React | Bootstrap
 
 - 🔧 &nbsp; Git | Scrum
 
+<hr>
 
+## I'm learning ...
+  - Java
+  - Testing QA
 
 <hr>
 
