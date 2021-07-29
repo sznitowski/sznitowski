@@ -4,10 +4,9 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-
-- 🎓 &nbsp; I am studying different technologies for full stack development.
-
-- 🌱 &nbsp; I am learning English, intermediate-advanced level.
+## I'm learning ...
+- 🎓 Java
+- 🌱 English
 
 
 <h3>🛠 Tech Stack</h3>
@@ -18,12 +17,6 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | React | Bootstrap
 
 - 🔧 &nbsp; Git | Scrum
-
-<hr>
-
-## I'm learning ...
-  - Java
-  - Testing QA
 
 <hr>
 
