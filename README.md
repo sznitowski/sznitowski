@@ -29,8 +29,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 #### Tools
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -57,5 +55,6 @@
 
 </p>
 
-<img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sznitowski.visitor-badge)
 
