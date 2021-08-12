@@ -31,6 +31,12 @@
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+
+#### Editors
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -50,5 +56,3 @@
 
 </p>
 
-<hr>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
