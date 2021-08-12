@@ -1,6 +1,3 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
-
-##### Hi, I'm Adam:
 
 
 # Hi there 👋<h2> I'm Valentín Sznitowski</h2>
@@ -16,14 +13,18 @@
 
 <h3>🛠 Tech Stack</h3>
 
-
-- 💻 &nbsp; Node Js | Express | Mongodb | postgreSql
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | Bootstrap
-
-- 🔧 &nbsp; Git | Scrum
+##### Languages I use
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 <hr>
+
+##### Some of the technologies I have worked with
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
