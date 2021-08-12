@@ -32,7 +32,8 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
 #### Editors
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
@@ -55,4 +56,6 @@
 <a href="mailto:vsznitowski@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vsznitowski@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
+
+<img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
 
