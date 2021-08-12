@@ -31,6 +31,7 @@
 
 #### Tools
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
