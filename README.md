@@ -31,25 +31,25 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 
-#### Databases
+#### Databases<hr>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
 
-#### Back-end
+#### Back-end<hr>
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 
-#### Tools
+#### Tools<hr>
 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
-#### Editors
+#### Editors<hr>
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
@@ -61,9 +61,9 @@
 <a href="https://portfoliosznitowski.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/portfoliosznitowski.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/valent%C3%ADn-sznitowski/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Valentin%20Sznitowski-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/valentin_sznitowski/?hl=es-la"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Sznitowski Valentin-red?style=flat-square&logo=instagram"></a>
-<a href="mailto:vsznitowski@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vsznitowski@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:vsznitowski@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vsznitowski@gmail.com-blue?style=flat-square&logo=gmail"></a>![visitors](https://visitor-badge.glitch.me/badge?page_id=sznitowski.visitor-badge)
 </p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sznitowski.visitor-badge)
+
 
