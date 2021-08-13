@@ -7,7 +7,7 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 ## I'm learning ...
-- 🎓 Java
+- 🎓 React
 - 🌱 English
 
 
