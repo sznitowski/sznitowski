@@ -25,14 +25,17 @@
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![Bootstrap]("https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">)
+
+![scss](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![Express]("https://img.shields.io/badge/-Express.js-787878?style=flat">)
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 
 #### Databases<hr>
-
+![MongoDB]("https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
@@ -43,7 +46,7 @@
 
 
 #### Tools<hr>
-
+![Heroku]("http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
