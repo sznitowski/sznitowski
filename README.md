@@ -24,7 +24,6 @@
 ##### Frameworks<hr>
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Bootstrap]("https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">)
 
 ![scss](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
@@ -35,7 +34,6 @@
 
 
 #### Databases<hr>
-![MongoDB]("https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
