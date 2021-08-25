@@ -24,10 +24,8 @@
 ##### Frameworks<hr>
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap]("https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">)
-
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![scss](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![Express]("https://img.shields.io/badge/-Express.js-787878?style=flat">)
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
