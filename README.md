@@ -42,7 +42,7 @@
 
 
 #### Tools<hr>
-![Heroku]("http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">)
+![Heroku]("http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white")
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
