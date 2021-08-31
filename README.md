@@ -36,19 +36,19 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
-<hr>
-#### Back-end
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)<hr>
+#### Back-end<hr>
 
-<hr>
-#### Deploy
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+
+#### Deploy<hr>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)<hr>
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 
 #### Editors<hr>
 
