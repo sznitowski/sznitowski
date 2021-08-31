@@ -41,7 +41,7 @@
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-## Deploy
+## Deploy<hr>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
