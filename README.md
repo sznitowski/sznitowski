@@ -7,7 +7,7 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 ## I'm learning ...<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />
-- 🎓 Testing
+- 🎓 React
 - 🌱 English
 
 
