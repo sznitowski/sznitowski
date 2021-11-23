@@ -21,8 +21,8 @@
 
 
 
-##### Frameworks<hr>
 
+**Frameworks: **
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![scss](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
@@ -30,9 +30,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-
-#### Databases<hr>
-
+**Databases: **
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/sznitowski)
@@ -40,7 +38,6 @@
 
 **Back-end: **
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-<hr>
 
 **Version Control: **
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -49,8 +46,9 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/sznitowski)
 
 **Other: **
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/sznitowski)]
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]
+[![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)]
 
 
 #### Connect with Me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
