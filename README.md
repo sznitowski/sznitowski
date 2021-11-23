@@ -11,16 +11,12 @@
 - 🌱 English
 
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 
-##### Front-end<hr>
-
+**Front-end: **
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-
-
-
 
 **Frameworks: **
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -46,9 +42,9 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/sznitowski)
 
 **Other: **
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/sznitowski)]
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]
-[![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)]
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/sznitowski)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 
 
 #### Connect with Me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
