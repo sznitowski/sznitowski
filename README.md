@@ -8,7 +8,7 @@
 
 ## I'm learning ...<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />
 - 🎓 React
-- 🌱 English
+- 🚀 English
 
 ### 🛠 Tech Stack
 
