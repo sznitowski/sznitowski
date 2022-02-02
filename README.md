@@ -8,7 +8,7 @@
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/>  Data science student</p>
 
 
-## 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 Front-end:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
