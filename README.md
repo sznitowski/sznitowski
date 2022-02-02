@@ -1,6 +1,6 @@
 
 
-# Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> <h2> I'm Valentín Sznitowski, FullStack Node JS developer</h2>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> I'm Valentín Sznitowski, FullStack Node JS developer</p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
