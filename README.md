@@ -21,6 +21,7 @@ Frameworks:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![scss](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/sznitowski)]
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
