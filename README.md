@@ -1,5 +1,5 @@
 
-<h3>Hi Welcome</h3>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"><h3>Hi Welcome</h3>
 
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> I'm Valentín Sznitowski, FullStack Node JS developer</p>
 
