@@ -35,7 +35,7 @@ Back-end:
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 
 Version Control:
-<img src="http://img.shields.io/badge/-Git-F1502F?styl
+<img src="http://img.shields.io/badge/-Git-F1502F?styl>
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/sznitowski)
